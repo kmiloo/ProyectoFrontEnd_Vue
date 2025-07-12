@@ -16,7 +16,7 @@ Se utiliza la [PokéAPI](https://pokeapi.co/), una API pública que proporciona 
 
 ### 1. Clona este repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/pokedex-vue.git
+git clone https://github.com/kmiloo/pokedex-vue.git
 cd pokedex-vue
 ```
 
